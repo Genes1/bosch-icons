@@ -1,0 +1,9 @@
+0         1768|	|2287              6276|  |6763          8533|
+              | |                      |  |                  |
+              | |                      |  |                  |
+              | |                      |  |                  |
+              | |                      |  |                  |
+------------------------------------------------------------- 4292
+
+To run, navigate to your unzipped directory with cmd and use 'python bosch.py [size] [# of pictures]'
+Requires pillow, which can be installed with 'pip install pillow'
